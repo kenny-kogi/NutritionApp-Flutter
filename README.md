@@ -2,7 +2,9 @@
 
 Flutter Minimal UI Project
 Thanks to the Flutter Well Explained Documentation.
-
+# Installation
+Run the git Commands
+  git clone "link"
 Success
 ========================
 ![Screenshot_1616323191](https://user-images.githubusercontent.com/65963713/111903732-c57b2500-8a54-11eb-8e81-306d63e54a2c.png)

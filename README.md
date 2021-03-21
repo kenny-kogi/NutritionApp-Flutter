@@ -1,4 +1,3 @@
-<<<<<<< HEAD:nutritionapp/README.md
 # Nutrition App Flutter
 
 Flutter Minimal UI Project
